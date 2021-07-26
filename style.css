@@ -1,0 +1,14 @@
+.all-font h1{
+  font-size: 80px;
+  color: navy;
+}
+.all-font h3{
+  font-size: 40px;
+}
+.all-font small{
+  color: gray;
+}
+.footer-step{
+  display: flex;
+  justify-content: space-evenly;
+}
